@@ -20,6 +20,8 @@ Welcome to AI for Everyone! This repository contains student projetcs, beginner-
 
 # 🚀 Getting Started
 
+![App](https://github.com/Rao-Sanaullah/AI_for_everyone/blob/main/Screenshot%202025-01-30%20002542.png)
+
 
 # 🤝 Contributing
 We welcome contributions! If you have an idea for a new project, feel free to open an issue or submit a pull request.
